@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artInspirationGenerator/static/css/main.8941426a.css",
+    "main.js": "/artInspirationGenerator/static/js/main.c8a5e3b0.js",
+    "static/js/787.db10fadd.chunk.js": "/artInspirationGenerator/static/js/787.db10fadd.chunk.js",
+    "index.html": "/artInspirationGenerator/index.html",
+    "main.8941426a.css.map": "/artInspirationGenerator/static/css/main.8941426a.css.map",
+    "main.c8a5e3b0.js.map": "/artInspirationGenerator/static/js/main.c8a5e3b0.js.map",
+    "787.db10fadd.chunk.js.map": "/artInspirationGenerator/static/js/787.db10fadd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8941426a.css",
+    "static/js/main.c8a5e3b0.js"
+  ]
+}
