@@ -12,9 +12,9 @@ Clicking a button generates different inspiration prompts and the background cha
 
 ## Setup
 
-#### Download the codes and open it in your IDE (e.g. VS Code)
-#### run `npm start` in the IDE terminal to initialize react, you will see a new window open in your browser
-#### run `cd path-to-your-current-dictionary` in your computer terminal
-#### (don't know how to find the path? click on the folder you are working on, right click it, then press option - copy as pathname)
-#### continue in the computer terminal, run `server node.js` to get the node.js work
-#### now things work in the browser window. If it doesn't, refresh.
+- Download the codes and open it in your IDE (e.g. VS Code)
+- run `npm start` in the IDE terminal to initialize react, you will see a new window open in your browser
+- run `cd path-to-your-current-dictionary` in your computer terminal
+- (don't know how to find the path? click on the folder you are working on, right click it, then press option - copy as pathname)
+- continue in the computer terminal, run `server node.js` to get the node.js work
+- now things work in the browser window. If it doesn't, refresh.
